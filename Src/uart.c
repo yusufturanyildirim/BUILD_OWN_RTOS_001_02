@@ -3,13 +3,13 @@
 #include "stm32f4xx.h"
 
 #define GPIOA_CLOCK 			(1U<<0)
-#define UART2_EN				(1U<<17)
+#define UART2_EN			(1U<<17)
 #define SYSTEM_FREQ 			16000000
-#define APB1_CLOCK				SYSTEM_FREQ
+#define APB1_CLOCK			SYSTEM_FREQ
 #define UART_BAUDRATE			115200  /* Optional */
-#define UART_CR1_REGISTER_TE	(1U<<3)
+#define UART_CR1_REGISTER_TE		(1U<<3)
 #define UART_CR1_ENABLE			(1U<<13)
-#define UART_ST_TXE				(1U<<7)
+#define UART_ST_TXE			(1U<<7)
 
 
 
