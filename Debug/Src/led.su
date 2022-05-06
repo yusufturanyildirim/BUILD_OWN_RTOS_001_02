@@ -1,0 +1,4 @@
+led.c:21:6:RCC_Config	4	static
+led.c:32:6:GPIO_Config	4	static
+led.c:37:6:LED_ON	4	static
+led.c:46:6:LED_OFF	4	static

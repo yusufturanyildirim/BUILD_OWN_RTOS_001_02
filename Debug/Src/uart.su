@@ -1,0 +1,5 @@
+uart.c:21:5:__io_putchar	16	static
+uart.c:26:6:UART_TRANSMIT_Config	8	static
+uart.c:55:13:UART_WRITE	16	static
+uart.c:65:13:UART_SET_BAUDRATE	16	static
+uart.c:71:17:COMPUTE_UART_BAUDRATE	16	static
